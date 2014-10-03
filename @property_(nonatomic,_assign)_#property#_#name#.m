@@ -1,4 +1,4 @@
-// @property (nonatomic, assign) <#Property#> <#name#>
+// @property (nonatomic, assign) Property name
 // 
 //
 // IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
