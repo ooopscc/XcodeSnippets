@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: classdef
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 1EF0BE33-73EF-49AD-9628-B6EFD271EF6B
+// IDECodeSnippetIdentifier: C8C63AAB-89B0-4019-9E1C-C646D3EED9CB
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 class <#class name#> {
   <#instance variables#>
 
