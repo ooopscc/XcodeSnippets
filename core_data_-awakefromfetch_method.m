@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: awakeFromFetch
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 0C3CD92C-8FBC-439D-9ABD-87B743002558
+// IDECodeSnippetIdentifier: 477F6BD8-7567-4834-909B-245FED531A4C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
