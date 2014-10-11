@@ -1,4 +1,4 @@
-// DLog
+// CLog
 // 
 //
 // IDECodeSnippetCompletionPrefix: clog
