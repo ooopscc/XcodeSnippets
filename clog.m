@@ -3,8 +3,8 @@
 //
 // IDECodeSnippetCompletionPrefix: clog
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 2847496B-075C-4CCC-BE13-253C2F151C55
+// IDECodeSnippetIdentifier: AD19A239-0F10-4280-9029-41F1B23E1CAF
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-DLog(@"%<#@#>", <#var#>);
+DLog(@"%<#@#>", <#variable#>);
