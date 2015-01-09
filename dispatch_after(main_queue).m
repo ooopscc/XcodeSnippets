@@ -1,6 +1,7 @@
 // dispatch_after(main_queue)
 // 
 //
+// IDECodeSnippetCompletionPrefix: dispatchafter
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: E0033A8B-FD15-4F8E-BA62-7BC8975F817B
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
