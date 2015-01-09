@@ -1,4 +1,4 @@
-// dispatch_after(main_queue)
+// gcd:_dispatch_after(swift)
 // 
 //
 // IDECodeSnippetCompletionPrefix: dispatchafter
