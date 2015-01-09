@@ -7,6 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-dispatch_after(dispatch_time(DISPATCH_TIME_NOW, Int64(<#delayTimeInSeconds#> * NSEC_PER_SEC)), dispatch_get_main_queue(), { () -> Void in
+dispatch_after(dispatch_time(DISPATCH_TIME_NOW, Int64(<#delayTimeInSeconds#> * NSEC_PER_SEC), dispatch_get_main_queue(), { () -> Void in
             <#code#>
         })
