@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: E0033A8B-FD15-4F8E-BA62-7BC8975F817B
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 dispatch_after(dispatch_time(DISPATCH_TIME_NOW, Int64(<#delayTimeInSeconds : Double | Int#> * Double(NSEC_PER_SEC))), dispatch_get_main_queue()) { () -> Void in
     <#code#>
 }
