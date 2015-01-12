@@ -1,7 +1,7 @@
 // // MARK: - mark
 // 
 //
-// IDECodeSnippetCompletionPrefix: smark
+// IDECodeSnippetCompletionPrefix: mark
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: EB0002C0-92C4-40B9-97A6-235D476597AB
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
